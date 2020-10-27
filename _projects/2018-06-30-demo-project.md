@@ -95,6 +95,10 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 
 <iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+### What about audio?
+
+<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fundefined&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
+
 ---
 
 ## Pretty cool, huh?
