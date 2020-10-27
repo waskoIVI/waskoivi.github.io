@@ -18,7 +18,8 @@ featured_image: /images/demo/home.jpg
         </section>
         <section class="listing">
             <div class="wrap">
-                {% for project in site.projects reversed %}
+                {% for project in site.posts reversed %}
+                asd
                 <article class="post">
                     <div class="post__image-wrap">
                         <div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
